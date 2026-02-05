@@ -11,7 +11,7 @@ public class JenkinsDemoApplication {
 	public static Logger logger=LoggerFactory.getLogger(JenkinsDemoApplication.class);
 	
 	
-	public void init() {
+	public  init() {
 		logger.info("Application started");
 	}
 	
